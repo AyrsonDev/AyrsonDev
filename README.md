@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá meu nome é Ayrson Ribeiro 👋
 
-<!--
-**AyrsonDev/AyrsonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou do Rio de Janeiro
 
-Here are some ideas to get you started:
+Sou um aprendiz desenvolvedor Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 47 anos
+
+Estou cursando Front-end do Vai na Web
+
+[![card](https://github-readme-stats.vercel.app/api?username=AyrsonDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+
+
+
+
